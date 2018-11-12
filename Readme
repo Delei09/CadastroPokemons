@@ -1,0 +1,15 @@
+Foi criado uma aplicação, usando a biblioteca gráfica Swing
+
+- Id (será usado auto-incremento).
+- Nome do Pokémon.
+- Tipo (aquático, elétrico, fogo etc.).
+- Data da captura (em branco se não capturou ainda).
+- Força (um valor numérico da força do Pokémon).
+
+E um botão "salvar" para salvar os dados no banco de dados.
+
+3. Foi criado um formulário que apresente uma lista de pokémon já cadastrados,
+ou seja, a tela busca na tabela "pokemon" no banco de dados todos os "bichinhos" registrados nela e apresentá-los em um grid. 
+Essa tela será apenas de exibição, não sendo necessário editar ou apagar.
+
+4. Foi  usado o framework JPA e o banco de dados Java DB. 
